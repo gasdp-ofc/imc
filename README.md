@@ -28,7 +28,7 @@ Em seguida, exibe uma das seguintes classificações:
 ## 🚀 Como Executar o Projeto
 ### 1️⃣ Clone o Repositório
 ```sh
-$ git clone https://github.com/seu-usuario/imc.git
+$ git clone https://github.com/gasdp-ofc/imc.git
 $ cd imc
 ```
 
@@ -64,4 +64,4 @@ Este projeto está sob a licença **MIT**. Sinta-se à vontade para usar e modif
 
 ---
 
-💡 Desenvolvido por **[Seu Nome](https://github.com/seu-usuario)** 😊
+💡 Desenvolvido por **[Guilherme Alves](https://github.com/seu-usuario)** 😊
